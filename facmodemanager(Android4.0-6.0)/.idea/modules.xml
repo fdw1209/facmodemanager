@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication1.iml" filepath="$PROJECT_DIR$/MyApplication1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SocketTest/SocketTest.iml" filepath="$PROJECT_DIR$/SocketTest/SocketTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SocketTest1/SocketTest1.iml" filepath="$PROJECT_DIR$/SocketTest1/SocketTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/debugtoolkit/debugtoolkit.iml" filepath="$PROJECT_DIR$/debugtoolkit/debugtoolkit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facmodemanager/facmodemanager.iml" filepath="$PROJECT_DIR$/facmodemanager/facmodemanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment/fragment.iml" filepath="$PROJECT_DIR$/fragment/fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello/hello.iml" filepath="$PROJECT_DIR$/hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/locationdemo/locationdemo.iml" filepath="$PROJECT_DIR$/locationdemo/locationdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/musicplayer/musicplayer.iml" filepath="$PROJECT_DIR$/musicplayer/musicplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remoteserviceaidl/remoteserviceaidl.iml" filepath="$PROJECT_DIR$/remoteserviceaidl/remoteserviceaidl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/standbypower/standbypower.iml" filepath="$PROJECT_DIR$/standbypower/standbypower.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather/weather.iml" filepath="$PROJECT_DIR$/weather/weather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wifisetting/wifisetting.iml" filepath="$PROJECT_DIR$/wifisetting/wifisetting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youkumenu/youkumenu.iml" filepath="$PROJECT_DIR$/youkumenu/youkumenu.iml" />
+    </modules>
+  </component>
+</project>

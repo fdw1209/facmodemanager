@@ -1,0 +1,1 @@
+include ':remoteserviceaidl', ':musicplayer', ':fragment', ':locationdemo', ':debugtoolkit', ':wifisetting', ':weather', ':standbypower', ':youkumenu', ':SocketTest', ':hello', ':SocketTest1', ':SocketTest', ':facmodemanager'

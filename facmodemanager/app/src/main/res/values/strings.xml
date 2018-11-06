@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">facmodemanager</string>
+    <string name="toast_write_fail">写入标志位失败</string>
+    <string name="toast_write_success">WRITE_SUCCESS</string>
+    <string name="title_activity_error">ErrorActivity</string>
+    <string name="errorcode1">错误码：1</string>
+    <string name="errorcode2">错误码：2</string>
+    <string name="errorcode3">错误码：3</string>
+    <string name="errorcode4">错误码：4</string>
+    <string name="errorcode5">错误码：5</string>
+    <string name="wentiji">注意：有问题机器，请隔离！！！</string>
+    <string name="ok">注意：已退出工厂菜单，可以断电！！！</string>
+    <string name="wait">正在等待退出工厂菜单...</string>
+</resources>
